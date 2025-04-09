@@ -9,24 +9,19 @@
       integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7"
       crossorigin="anonymous"
     />
-    <title>Web Storage</title>
+    <title>Welcome</title>
   </head>
   <body>
     <div class="container mt-5">
-      <h1>Ejercicio Storage</h1>
-      <form class="form-nombre w-75" style="border: 1px solid rgba(128, 128, 128, 0.596); border-radius: 5px; padding: 1rem;">
-        <div class="mb-3">
-          <label for="entradaNombre" class="form-label">NOMBRE</label>
-          <input type="text" class="form-control" id="entradaNombre" aria-describedby="ayudaNombre">
-          <div id="ayudaNombre" class="form-text">Ingresa tu nombre completo por favor.</div>
+        <div class="vista-welcome w-75" style="border: 1px solid rgba(128, 128, 128, 0.596); border-radius: 5px; padding: 1rem;">
+            <h2>Por favor regresa a la vista principal e ingresa tu nombre...</h2>
+            <div class="mb-3">
+                <button type="submit" class="btn btn-primary">Eliminar nombre</button>
+            </div>
+            <div class="mb-3">
+                <a href="./index.html">¡Regresa a la <i>Vista Principal!</i></a>
+            </div>
         </div>
-        <div class="mb-3">
-          <button type="submit" class="btn btn-primary">Guardar</button>
-        </div>
-        <div class="mb-3">
-          <a href="./welcome.html">¡Avanza a la vista <i>Welcome!</i></a>
-        </div>
-      </form>
     </div>
 
     <script
