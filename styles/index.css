@@ -1,0 +1,47 @@
+body {
+  --bg-color: rgba(0, 0, 0, 0.925);
+  --text-color: rgba(230, 227, 227, 0.904);
+  --inputs-color: rgba(220, 224, 224, 0.795);
+
+  background: var(--bg-color);
+  color: var(--text-color);
+}
+
+div.container-index form.form-nombre,
+div.vista-welcome {
+  background-color: rgba(255, 255, 255, 0.219);
+  font-weight: 600;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+div.titulo1,
+div.titulo2 {
+  justify-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(255, 217, 0, 0.815);
+}
+
+div#ayudaNombre {
+  color: var(--text-color);
+}
+
+button#btnGuardar,
+button#btnEliminar {
+  color: var(--text-color);
+  font-weight: 600;
+}
+
+div.texto-cambio {
+  background-color: var(--inputs-color);
+  padding: 1rem;
+  color: rgba(0, 0, 0, 0.747);
+  border-radius: 5px;
+}
+
+input#entradaNombre {
+  background-color: var(--inputs-color);
+}
