@@ -1,7 +1,13 @@
-# Generation México CH53
+# Generation México CH53 🚀
 
 ## Ejercicio de Web Storage
----
+
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+
+
 📝 **Codigo para actualizar el proyecto:**
 ```bash
 git status
@@ -10,16 +16,17 @@ git commit -m "Mensaje del commit"
 git push origin main
 ```
 
-💡 **Herramientas:**
-- HTML
-- Javascript
-- CSS
-- Bootstrap
+## 🧰 Herramientas utilizadas
+
+- 🧱 **HTML**
+- 🎨 **Bootstrap**
+- 🧠 **JavaScript**
+- 🎨 **CSS**
 
 > 📌 **Instrucciones para realizar el ejercicio**
 [![N|Solid](https://raw.githubusercontent.com/RicardoMiguelR/EjercicioStorage/refs/heads/main/assets/images/storage-tarea.webp)](https://raw.githubusercontent.com/RicardoMiguelR/EjercicioStorage/refs/heads/main/assets/images/storage-tarea.webp)
 
-
+---
 
 > ✅ **Vista previa del  proyecto**
 ![N|Solid](https://raw.githubusercontent.com/RicardoMiguelR/EjercicioStorage/refs/heads/main/assets/images/storage1.webp)
@@ -29,6 +36,9 @@ git push origin main
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+### 🙌 Créditos
+Realizado por @RicardoMiguelR
+Proyecto de práctica - Generation México CH53
 
 ## License
 
